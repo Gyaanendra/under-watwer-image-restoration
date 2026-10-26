@@ -11,6 +11,7 @@ This directory contains research notes, dataset analyses, architectural designs,
 | :--- | :--- | :--- | :---: |
 | [**01_lsui_dataset_exploration.md**](file:///e:/sem5_project/docs/01_lsui_dataset_exploration.md) | **LSUI Dataset Exploration** | Complete optical physics breakdown, statistical distributions (resolutions, file sizes), degradation archetypes, channel attenuation, baseline PSNR/SSIM, and modeling guidance. | ✅ Complete |
 | [**Milestone2_report.md**](file:///e:/sem5_project/reports/Milestone2_report.md) | **Milestone 2: Project Design & Empirical Progress** | Full system architecture diagram, relevance of algorithms, models trained (WaterMamba vs Hero-Mamba), architectural modifications, and quantitative/qualitative result shifts. | ✅ Complete |
+| [**POST_BASELINE_EXPERIMENTS_GUIDE.md**](file:///e:/sem5_project/docs/POST_BASELINE_EXPERIMENTS_GUIDE.md) | **Post-Baseline Experiments Guide** | Execution guide, pause & resume commands, flag specifications, and architecture matrix for all 16 post-baseline models + Adaptive Gate. | ✅ Complete |
 
 ---
 
